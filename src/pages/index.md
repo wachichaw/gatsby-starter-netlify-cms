@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Cheap Landing Page Business
+title: Cheap Landing Page Business - hahaha
 image: /img/home-jumbotron.jpg
 heading: Great service with a conscience
 subheading: Support sustainable websites with custom designs
