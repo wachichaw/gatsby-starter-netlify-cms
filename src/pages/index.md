@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 heading: Great service with a conscience
 subheading: Support sustainable websites with custom designs
 mainpitch:
-  title: Why Wachichaw Hehehe
+  title: Why Wachichaw Hehehe !!!
   description: >
     Wachichaw is client friendly and easy to contact. Site deployment only takes
     minutes.
