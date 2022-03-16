@@ -5,11 +5,11 @@ image: /img/home-jumbotron.jpg
 heading: Great service with a conscience
 subheading: Support sustainable websites with custom designs
 mainpitch:
-  title: Why Wachichaw
+  title: Why Wachichaw Hehehe
   description: >
-    Wachichaw is client friendly and easy to contact. Site deployment only takes minutes.
-description: >-
-  Wachichaw for me, for you, and for everybody!
+    Wachichaw is client friendly and easy to contact. Site deployment only takes
+    minutes.
+description: 'Wachichaw for me, for you, and for everybody!'
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -62,3 +62,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
